@@ -28,4 +28,8 @@ The `name` route should display "My name is \_\_" in the browser, the `hometown`
 
 Don't forget to run `rspec` in terminal to test your code.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-basic-routes-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-basic-routes-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Sinatra Routes Lab</p>
